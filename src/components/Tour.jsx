@@ -17,6 +17,7 @@ const Tour = ({id,image,info,price,name , removeTour}) => {
                 <p>
                     {
                     readMore ? info : `${info.substring(0,200)}...`
+                    // * burada info değişkenini kısaltıyoruz.
                     } 
                     <button onClick={() => setReadMore(!readMore)}>
                         {
