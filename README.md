@@ -1,7 +1,7 @@
 
 ![Animation](https://user-images.githubusercontent.com/99739515/184499036-b6dfa77d-2113-4e93-91f8-94d5f6636d7b.gif)
 
-[📍click here to see page](https://movie-app-react-68y1ey1wk-yaserdemet.vercel.app
+[📍click here to see page](https://react-smilga-nlxkloc8w-yaserdemet.vercel.app
 )
 
 
