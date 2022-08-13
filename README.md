@@ -10,15 +10,17 @@
 
 📌 Props and State Logic
 
+📌 React-hooks
+
 📌 Conditional Rendering
 
 📌 Js build in functions
 
-📌 React Router Pages
+📌 Fetch Api async await
 
-📌 3rd Part Libraries ( Axios )
+📌 Js iteration method ( map, filter )
 
-📌 Js iteration method (map, filter )
+📌 Bootstrap, Css
 
 📌 Deployment with Vercel and Netlify
 
