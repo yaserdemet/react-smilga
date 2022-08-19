@@ -8,7 +8,7 @@
 
 ### At the end of the project, following topics are to be covered;
 
-📌 Props and State Logic
+📌 Props, State and Component Logic
 
 📌 React-hooks
 
